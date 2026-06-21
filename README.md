@@ -17,8 +17,7 @@ I'm a B.Tech Artificial Intelligence & Data Science student passionate about sol
 
 I enjoy building interactive dashboards, analyzing data, discovering insights, and creating intelligent solutions using modern analytical tools.
 
-My goal is to become a skilled Data Scientist capable of transforming data into impactful business decisions.
-
+I enjoy transforming raw data into meaningful insights through dashboards, analytics, and machine learning. I'm currently building real-world projects to strengthen my technical skills and create a portfolio that demonstrates practical problem-solving.
 ---
 
 # 🌱 Currently Learning
@@ -103,14 +102,13 @@ https://github.com/ayman-1707/Financial-Analysis-Dashboard
 
 # 🎯 2026 Goals
 
-- ✅ Build 15+ Data Analytics Projects
-- ✅ Master SQL
-- ✅ Master Power BI
-- ✅ Learn Advanced Python
-- ✅ Build Machine Learning Portfolio
-- ✅ Secure a Data Analyst Internship
-- ✅ Contribute to Open Source
-
+- Build 15+ Data Analytics Projects
+- Master SQL
+- Master Power BI
+- Learn Advanced Python
+- Build a Machine Learning Portfolio
+- Secure a Data Analyst Internship
+- Contribute to Open Source
 ---
 
 # 🎯 Current Focus
